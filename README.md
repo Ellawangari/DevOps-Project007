@@ -10,6 +10,7 @@ The project tasks were to prepare a DevOps tooling website solution to be access
 -  More practice on disk partioning and Volume management.
 
 ****STEPS****
+
 **Step 1: Prepare NFS Server**
 - Spinned up a EC2 server with RHEL Linux 8 OS.
 
@@ -40,7 +41,7 @@ The project tasks were to prepare a DevOps tooling website solution to be access
 ![alt text](https://github.com/Ellawangari/DevOps-Project007/blob/main/Images/12.PNG)
 ![alt text](https://github.com/Ellawangari/DevOps-Project007/blob/main/Images/13.PNG)
 
-**Step 1: Prepare DATABASE Server**
+**Step 2: Prepare DATABASE Server**
 
 - Spinned up an Ubuntu Server
 - Installed MYSQL Server `sudo apt install mysql -y` ensured the mysql server is running by `sudo systemctl status mysql`
